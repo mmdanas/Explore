@@ -1,4 +1,4 @@
-#Data Observability Tools
+# Data Observability Tools
 - [Prometheus](https://prometheus.io/) -Monitoring for timeseries data
 - [Thanos](https://thanos.io/) -Prometheus large scale setup
 - [Opentelemetry](https://opentelemetry.io/) -Logging for all major languages
