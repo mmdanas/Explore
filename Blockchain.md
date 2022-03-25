@@ -3,3 +3,4 @@
 - Solidity Docs - https://docs.soliditylang.org/en/v0.8.12/
 - Vyper Docs - https://vyper.readthedocs.io/en/stable/
 - Smartcontract Repos - https://github.com/orgs/smartcontractkit/repositories
+- Smartlink to build oracles - https://data.chain.link/
