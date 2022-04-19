@@ -10,6 +10,7 @@
 - [Acceldata](https://www.acceldata.io/why-data-observability) - Data observability platform
 - [Datafold](https://www.datafold.com/) - Data reliablity platform
 - [Soda](https://www.soda.io/) - Data Observability platform
+- [Monsoi](https://www.monosi.dev/) - Data observability, Data Anomaly platform
 
 
 
