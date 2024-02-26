@@ -1,4 +1,5 @@
 # Data Observability Tools
+- [List of Catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs) - List of all data catalogs
 - [Prometheus](https://prometheus.io/) -Monitoring for timeseries data
 - [Thanos](https://thanos.io/) -Prometheus large scale setup
 - [Opentelemetry](https://opentelemetry.io/) -Logging for all major languages
