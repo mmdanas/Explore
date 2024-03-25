@@ -8,4 +8,5 @@
  - broadway -> https://github.com/dashbitco/broadway
  - Kafka -> https://github.com/apache/kafka
  - Gobblin -> https://github.com/apache/gobblin
+ - seatunnel -> https://seatunnel.apache.org/
  
